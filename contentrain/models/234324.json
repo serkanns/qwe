@@ -11,5 +11,18 @@
         "value": true
       }
     }
+  },
+  {
+    "name": "342342-5-1",
+    "description": "wer",
+    "fieldId": "342342-5-1",
+    "modelId": "234324",
+    "componentId": "single-line-text",
+    "validations": {},
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    }
   }
 ]
