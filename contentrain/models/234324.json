@@ -1,0 +1,15 @@
+[
+  {
+    "name": "342342-5",
+    "description": "wer",
+    "fieldId": "342342-5",
+    "modelId": "234324",
+    "componentId": "single-line-text",
+    "validations": {},
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    }
+  }
+]
